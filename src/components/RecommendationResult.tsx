@@ -1,6 +1,5 @@
 import React from 'react';
 import { Hospital } from '../types';
-import { clsx } from 'clsx';
 
 interface Doctor {
   id: string;
